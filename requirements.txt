@@ -1,7 +1,5 @@
 streamlit
-joblib
-scikit-learn==1.6.1
-xgboost
-pandas
 numpy
-nltk
+pandas
+scikit-learn
+pillow
